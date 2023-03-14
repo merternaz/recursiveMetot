@@ -1,0 +1,15 @@
+C:\Users\MONSTER\GitProject\recursive\obj\Debug\net7.0\recursive.csproj.AssemblyReference.cache
+C:\Users\MONSTER\GitProject\recursive\obj\Debug\net7.0\recursive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\GitProject\recursive\obj\Debug\net7.0\recursive.AssemblyInfoInputs.cache
+C:\Users\MONSTER\GitProject\recursive\obj\Debug\net7.0\recursive.AssemblyInfo.cs
+C:\Users\MONSTER\GitProject\recursive\obj\Debug\net7.0\recursive.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\GitProject\recursive\bin\Debug\net7.0\recursive.exe
+C:\Users\MONSTER\GitProject\recursive\bin\Debug\net7.0\recursive.deps.json
+C:\Users\MONSTER\GitProject\recursive\bin\Debug\net7.0\recursive.runtimeconfig.json
+C:\Users\MONSTER\GitProject\recursive\bin\Debug\net7.0\recursive.dll
+C:\Users\MONSTER\GitProject\recursive\bin\Debug\net7.0\recursive.pdb
+C:\Users\MONSTER\GitProject\recursive\obj\Debug\net7.0\recursive.dll
+C:\Users\MONSTER\GitProject\recursive\obj\Debug\net7.0\refint\recursive.dll
+C:\Users\MONSTER\GitProject\recursive\obj\Debug\net7.0\recursive.pdb
+C:\Users\MONSTER\GitProject\recursive\obj\Debug\net7.0\recursive.genruntimeconfig.cache
+C:\Users\MONSTER\GitProject\recursive\obj\Debug\net7.0\ref\recursive.dll
